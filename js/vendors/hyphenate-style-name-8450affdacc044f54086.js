@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{227:function(e,r,t){"use strict";Object.defineProperty(r,"__esModule",{value:!0}),r.default=void 0;var n=/[A-Z]/g,o=/^ms-/,u={};function a(e){return"-"+e.toLowerCase()}var s=function(e){if(u.hasOwnProperty(e))return u[e];var r=e.replace(n,a);return u[e]=o.test(r)?"-"+r:r};r.default=s}}]);
+//# sourceMappingURL=hyphenate-style-name-8450affdacc044f54086.js.map
