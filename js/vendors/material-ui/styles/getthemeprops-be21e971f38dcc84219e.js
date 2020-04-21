@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[74],{122:function(e,r,t){"use strict";var n=t(2);Object.defineProperty(r,"__esModule",{value:!0}),Object.defineProperty(r,"default",{enumerable:!0,get:function(){return o.default}});var o=n(t(236))},236:function(e,r,t){"use strict";Object.defineProperty(r,"__esModule",{value:!0}),r.default=function(e){var r=e.theme,t=e.name,n=e.props;if(!r||!r.props||!r.props[t])return n;var o,u=r.props[t];for(o in u)void 0===n[o]&&(n[o]=u[o]);return n}}}]);
+//# sourceMappingURL=getthemeprops-be21e971f38dcc84219e.js.map
