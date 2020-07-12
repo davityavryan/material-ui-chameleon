@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[97],{79:function(e,n,o){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default=void 0;var t=function(e,n){};n.default=t}}]);
-//# sourceMappingURL=tiny-warning-61be807a8494ee1e461e.js.map

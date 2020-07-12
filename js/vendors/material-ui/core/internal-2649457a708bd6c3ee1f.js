@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[47],{192:function(e,o,t){"use strict";var a=t(2),d=t(6);Object.defineProperty(o,"__esModule",{value:!0}),o.default=void 0;var n=d(t(3)),r=(0,a(t(536)).default)(n.createElement("path",{d:"M7 10l5 5 5-5z"}),"ArrowDropDown");o.default=r}}]);
-//# sourceMappingURL=internal-2649457a708bd6c3ee1f.js.map

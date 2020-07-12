@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./node_modules/@material-ui/styles/esm/createStyles/createStyles.js"],"names":["createStyles","styles"],"mappings":"2FAAe,SAASA,EAAaC,GACnC,OAAOA,EADT","file":"js/vendors/material-ui/styles/createstyles.js","sourcesContent":["export default function createStyles(styles) {\n  return styles;\n}"],"sourceRoot":""}

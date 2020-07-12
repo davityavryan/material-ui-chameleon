@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{528:function(n,t,a){"use strict";a.r(t);var e=a(2),o=a.n(e),u=a(11),c=a(125);t.default=function(){return o.a.createElement(u.a,{to:c.a.buttons.path})}}}]);
+//# sourceMappingURL=not-found.js.map
