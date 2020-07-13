@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[61],{499:function(a,e,t){"use strict";var s=t(4),o=t(5),c=t(2),n=t(7),r=t(9),i=c.forwardRef((function(a,e){var t=a.classes,r=a.className,i=Object(o.a)(a,["classes","className"]);return c.createElement("div",Object(s.a)({className:Object(n.a)(t.root,r),ref:e},i))}));i.muiName="ListItemSecondaryAction",e.a=Object(r.a)({root:{position:"absolute",right:16,top:"50%",transform:"translateY(-50%)"}},{name:"MuiListItemSecondaryAction"})(i)}}]);
-//# sourceMappingURL=listitemsecondaryaction.js.map

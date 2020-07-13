@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[31],{496:function(a,b,c){"use strict";var e=c(159),n=c(22),i=c(67),o=c(160),t=c(68),w=c(69),p=c(71),s=c(70),d=c(161),u=c(72),j=c(86),O=c(73),h=c(276),k=Object(e.a)(Object(n.a)(i.h,o.a,t.d,w.a,p.b,s.c,d.a,u.b,j.b,O.a)),r=Object(h.a)("div")(k,{name:"MuiBox"});b.a=r}}]);
-//# sourceMappingURL=box.js.map

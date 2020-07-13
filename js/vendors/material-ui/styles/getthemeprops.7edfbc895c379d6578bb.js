@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[87],{248:function(n,r,o){"use strict";function p(n){var r=n.theme,o=n.name,p=n.props;if(!r||!r.props||!r.props[o])return p;var e,i=r.props[o];for(e in i)void 0===p[e]&&(p[e]=i[e]);return p}o.d(r,"a",(function(){return p}))}}]);
+//# sourceMappingURL=getthemeprops.7edfbc895c379d6578bb.js.map
