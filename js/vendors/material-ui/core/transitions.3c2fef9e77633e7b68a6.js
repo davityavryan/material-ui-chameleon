@@ -1,0 +1,3 @@
+(self.webpackChunkmaterial_ui_chameleon_gh_pages=self.webpackChunkmaterial_ui_chameleon_gh_pages||[]).push([[7369],{2258:(s,r,i)=>{"use strict";i.d(r,{n:()=>u,C:()=>l});var u=function(t){return t.scrollTop};function l(e,t){var n=e.timeout,a=e.style,o=a===void 0?{}:a;return{duration:o.transitionDuration||typeof n=="number"?n:n[t.mode]||0,delay:o.transitionDelay}}}}]);
+
+//# sourceMappingURL=transitions.3c2fef9e77633e7b68a6.js.map

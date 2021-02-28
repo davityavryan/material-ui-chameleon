@@ -1,0 +1,3 @@
+(self.webpackChunkmaterial_ui_chameleon_gh_pages=self.webpackChunkmaterial_ui_chameleon_gh_pages||[]).push([[3042],{716:(s,l,e)=>{"use strict";e.d(l,{Z:()=>P});var r=e(4786),u=e(7104),o=e(7491),m=e(2498),f=e(7264);function i(_,n){if(typeof n=="function"){var t=n(_);return t}return(0,r.Z)({},_,n)}function h(_){var n=_.children,t=_.theme,a=(0,m.Z)(),v=u.useMemo(function(){var E=a===null?t:i(a,t);return E!=null&&(E[f.Z]=a!==null),E},[t,a]);return u.createElement(o.Z.Provider,{value:v},n)}const P=h},7264:(s,l,e)=>{"use strict";e.d(l,{Z:()=>u});var r=typeof Symbol=="function"&&Symbol.for;const u=r?Symbol.for("mui.nested"):"__THEME_NESTED__"}}]);
+
+//# sourceMappingURL=themeprovider.e1ae46d2ec3bfb423399.js.map

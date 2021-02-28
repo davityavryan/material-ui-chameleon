@@ -1,0 +1,3 @@
+(self.webpackChunkmaterial_ui_chameleon_gh_pages=self.webpackChunkmaterial_ui_chameleon_gh_pages||[]).push([[7941],{5485:(h,t,a)=>{"use strict";a.d(t,{Z:()=>m});var i=a(4786),n=a(515),e=a(2366),c=a(2964),o=a(7201),E={root:{display:"flex",alignItems:"center",padding:8,justifyContent:"flex-end",flex:"0 0 auto"},spacing:{"& > :not(:first-child)":{marginLeft:8}}},d=e.forwardRef(function(s,r){var _=s.disableSpacing,g=_===void 0?!1:_,l=s.classes,D=s.className,f=(0,n.Z)(s,["disableSpacing","classes","className"]);return e.createElement("div",(0,i.Z)({className:(0,c.Z)(l.root,D,!g&&l.spacing),ref:r},f))});const m=(0,o.Z)(E,{name:"MuiDialogActions"})(d)}}]);
+
+//# sourceMappingURL=dialogactions.5a09c605d0744fd23674.js.map

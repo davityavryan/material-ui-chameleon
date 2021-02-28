@@ -1,0 +1,3 @@
+(self.webpackChunkmaterial_ui_chameleon_gh_pages=self.webpackChunkmaterial_ui_chameleon_gh_pages||[]).push([[8300],{7292:(c,n,e)=>{"use strict";e.r(n),e.d(n,{default:()=>p});var s=e(7104),a=e(6562),l=e.n(a),_=e(7003);class o extends s.Component{constructor(t){super(t);this.state={error:null}}static getDerivedStateFromError(t){return{error:t}}componentDidCatch(t,r){console.error(t,r)}render(){const{error:t}=this.state,{children:r,FallbackComponent:E}=this.props;return t?s.createElement(E,{error:t}):r}}o.propTypes={FallbackComponent:l().object},o.defaultProps={FallbackComponent:_.l2};const p=o}}]);
+
+//# sourceMappingURL=error-boundary.b802315057b2cf074d8d.js.map
