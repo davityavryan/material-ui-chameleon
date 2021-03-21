@@ -1,3 +1,0 @@
-(self.webpackChunkmaterial_ui_chameleon_gh_pages=self.webpackChunkmaterial_ui_chameleon_gh_pages||[]).push([[6873],{3198:(K,E,_)=>{"use strict";_.d(E,{Z:()=>T});var a=_(2269),s=_(4534),P=_(8660),t=_(5462),m=_(6262),D=_(846),M=_(8191),O=_(1571),l=_(4630),i=_(7412),v=_(706),B=_(2407),C=_(9152),y=(0,a.Z)((0,s.Z)(P.ZP,t.ZP,m.ZP,D.ZP,M.ZP,O.ZP,l.Z,i.ZP,v.Z,B.ZP)),A=(0,C.Z)("div")(y,{name:"MuiBox"});const T=A}}]);
-
-//# sourceMappingURL=box.eeb7e67486f224039c4e.js.map

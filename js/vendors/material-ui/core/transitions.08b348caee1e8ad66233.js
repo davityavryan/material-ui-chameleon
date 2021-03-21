@@ -1,0 +1,3 @@
+(self.webpackChunkmaterial_ui_chameleon_docs=self.webpackChunkmaterial_ui_chameleon_docs||[]).push([[7369],{62258:(s,a,i)=>{"use strict";i.d(a,{n:()=>u,C:()=>l});var u=function(t){return t.scrollTop};function l(e,t){var o=e.timeout,n=e.style,r=n===void 0?{}:n;return{duration:r.transitionDuration||typeof o=="number"?o:o[t.mode]||0,delay:r.transitionDelay}}}}]);
+
+//# sourceMappingURL=transitions.08b348caee1e8ad66233.js.map

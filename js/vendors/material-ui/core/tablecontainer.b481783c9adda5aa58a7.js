@@ -1,0 +1,3 @@
+(self.webpackChunkmaterial_ui_chameleon_docs=self.webpackChunkmaterial_ui_chameleon_docs||[]).push([[7152],{71371:(h,t,e)=>{"use strict";e.d(t,{Z:()=>r});var o=e(85399),l=e(65917),a=e(2366),n=e(72964),c=e(47201),m={root:{width:"100%",overflowX:"auto"}},E=a.forwardRef(function(_,i){var P=_.classes,v=_.className,s=_.component,C=s===void 0?"div":s,d=(0,l.Z)(_,["classes","className","component"]);return a.createElement(C,(0,o.Z)({ref:i,className:(0,n.Z)(P.root,v)},d))});const r=(0,c.Z)(m,{name:"MuiTableContainer"})(E)}}]);
+
+//# sourceMappingURL=tablecontainer.b481783c9adda5aa58a7.js.map

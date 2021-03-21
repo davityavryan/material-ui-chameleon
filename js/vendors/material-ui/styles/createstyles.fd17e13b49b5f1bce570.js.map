@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://material-ui-chameleon-docs/./node_modules/@material-ui/styles/esm/createStyles/createStyles.js"],"names":[],"mappings":"0JAAe,WAAsB,EAAQ,CAC3C,MAAO","file":"js/vendors/material-ui/styles/createstyles.fd17e13b49b5f1bce570.js","sourcesContent":["export default function createStyles(styles) {\n  return styles;\n}"],"sourceRoot":""}

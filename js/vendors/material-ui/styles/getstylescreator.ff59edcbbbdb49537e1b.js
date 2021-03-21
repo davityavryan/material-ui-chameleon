@@ -1,0 +1,3 @@
+(self.webpackChunkmaterial_ui_chameleon_docs=self.webpackChunkmaterial_ui_chameleon_docs||[]).push([[244],{17115:(l,s,e)=>{"use strict";e.d(s,{Z:()=>d});var t=e(85399),i=e(57602);function d(a){var f=typeof a=="function";return{create:function(r,n){var o;try{o=f?a(r):a}catch(_){throw _}if(!n||!r.overrides||!r.overrides[n])return o;var c=r.overrides[n],u=(0,t.Z)({},o);return Object.keys(c).forEach(function(_){u[_]=(0,i.Z)(u[_],c[_])}),u},options:{}}}},46715:(l,s,e)=>{"use strict";e.d(s,{Z:()=>i});var t={};const i=t}}]);
+
+//# sourceMappingURL=getstylescreator.ff59edcbbbdb49537e1b.js.map

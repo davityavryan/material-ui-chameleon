@@ -1,0 +1,3 @@
+(self.webpackChunkmaterial_ui_chameleon_docs=self.webpackChunkmaterial_ui_chameleon_docs||[]).push([[8300],{3877:(u,o,t)=>{"use strict";t.r(o),t.d(o,{default:()=>l});var r=t(7104),a=t(38535);class c extends r.Component{constructor(e){super(e);this.state={error:void 0}}static getDerivedStateFromError(e){return{error:e}}componentDidCatch(e,n){console.error(e,n)}render(){const{error:e}=this.state,{children:n=null,FallbackComponent:s}=this.props;return e?s===void 0?r.createElement(a.l2,{error:e}):r.createElement(s,{error:e}):n}}const l=c}}]);
+
+//# sourceMappingURL=error-boundary.da44d359a91969f58d71.js.map

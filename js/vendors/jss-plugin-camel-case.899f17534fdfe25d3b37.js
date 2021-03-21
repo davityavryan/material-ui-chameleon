@@ -1,3 +1,0 @@
-(self.webpackChunkmaterial_ui_chameleon_gh_pages=self.webpackChunkmaterial_ui_chameleon_gh_pages||[]).push([[804],{5777:(t,i,f)=>{"use strict";f.d(i,{Z:()=>h});var c=f(8422);function _(r){var e={};for(var a in r){var n=a.indexOf("--")===0?a:(0,c.Z)(a);e[n]=r[a]}return r.fallbacks&&(Array.isArray(r.fallbacks)?e.fallbacks=r.fallbacks.map(_):e.fallbacks=_(r.fallbacks)),e}function l(){function r(a){if(Array.isArray(a)){for(var n=0;n<a.length;n++)a[n]=_(a[n]);return a}return _(a)}function e(a,n,s){if(n.indexOf("--")===0)return a;var u=(0,c.Z)(n);return n===u?a:(s.prop(u,a),null)}return{onProcessStyle:r,onChangeValue:e}}const h=l}}]);
-
-//# sourceMappingURL=jss-plugin-camel-case.899f17534fdfe25d3b37.js.map

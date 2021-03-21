@@ -1,0 +1,3 @@
+(self.webpackChunkmaterial_ui_chameleon_docs=self.webpackChunkmaterial_ui_chameleon_docs||[]).push([[1894],{3335:(h,u,o)=>{"use strict";o.d(u,{Z:()=>c});function _(){var l=function(e,t){return e.length===t.length?e>t?1:-1:e.length-t.length};return{onProcessStyle:function(e,t){if(t.type!=="style")return e;for(var s={},r=Object.keys(e).sort(l),n=0;n<r.length;n++)s[r[n]]=e[r[n]];return s}}}const c=_}}]);
+
+//# sourceMappingURL=jss-plugin-props-sort.85099feb14dd3f35b0e9.js.map

@@ -1,0 +1,3 @@
+(self.webpackChunkmaterial_ui_chameleon_docs=self.webpackChunkmaterial_ui_chameleon_docs||[]).push([[2581],{78537:(u,o,t)=>{"use strict";t.d(o,{Z:()=>r});var _=t(85399);function r(){var a=arguments.length>0&&arguments[0]!==void 0?arguments[0]:{},n=a.baseClasses,e=a.newClasses,c=a.Component;if(!e)return n;var l=(0,_.Z)({},n);return Object.keys(e).forEach(function(s){e[s]&&(l[s]="".concat(n[s]," ").concat(e[s]))}),l}}}]);
+
+//# sourceMappingURL=mergeclasses.ac570b6ca0dd3346428d.js.map

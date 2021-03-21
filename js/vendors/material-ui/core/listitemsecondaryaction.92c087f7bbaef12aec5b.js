@@ -1,3 +1,0 @@
-(self.webpackChunkmaterial_ui_chameleon_gh_pages=self.webpackChunkmaterial_ui_chameleon_gh_pages||[]).push([[1062],{6815:(u,_,e)=>{"use strict";e.d(_,{Z:()=>r});var l=e(4786),o=e(515),t=e(2366),n=e(2964),c=e(7201),m={root:{position:"absolute",right:16,top:"50%",transform:"translateY(-50%)"}},a=t.forwardRef(function(s,i){var E=s.classes,h=s.className,P=(0,o.Z)(s,["classes","className"]);return t.createElement("div",(0,l.Z)({className:(0,n.Z)(E.root,h),ref:i},P))});a.muiName="ListItemSecondaryAction";const r=(0,c.Z)(m,{name:"MuiListItemSecondaryAction"})(a)}}]);
-
-//# sourceMappingURL=listitemsecondaryaction.92c087f7bbaef12aec5b.js.map

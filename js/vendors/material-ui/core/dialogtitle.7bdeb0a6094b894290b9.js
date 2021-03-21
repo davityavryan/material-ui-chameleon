@@ -1,3 +1,0 @@
-(self.webpackChunkmaterial_ui_chameleon_gh_pages=self.webpackChunkmaterial_ui_chameleon_gh_pages||[]).push([[5954],{6810:(v,t,a)=>{"use strict";a.d(t,{Z:()=>m});var i=a(4786),o=a(515),_=a(2366),n=a(2964),r=a(7201),E=a(2365),h={root:{margin:0,padding:"16px 24px",flex:"0 0 auto"}},c=_.forwardRef(function(e,d){var s=e.children,D=e.classes,T=e.className,l=e.disableTypography,P=l===void 0?!1:l,g=(0,o.Z)(e,["children","classes","className","disableTypography"]);return _.createElement("div",(0,i.Z)({className:(0,n.Z)(D.root,T),ref:d},g),P?s:_.createElement(E.Z,{component:"h2",variant:"h6"},s))});const m=(0,r.Z)(h,{name:"MuiDialogTitle"})(c)}}]);
-
-//# sourceMappingURL=dialogtitle.7bdeb0a6094b894290b9.js.map

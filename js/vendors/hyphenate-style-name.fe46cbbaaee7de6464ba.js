@@ -1,3 +1,0 @@
-(self.webpackChunkmaterial_ui_chameleon_gh_pages=self.webpackChunkmaterial_ui_chameleon_gh_pages||[]).push([[5599],{8422:(p,t,_)=>{"use strict";_.d(t,{Z:()=>h});var n=/[A-Z]/g,s=/^ms-/,a={};function u(e){return"-"+e.toLowerCase()}function c(e){if(a.hasOwnProperty(e))return a[e];var r=e.replace(n,u);return a[e]=s.test(r)?"-"+r:r}const h=c}}]);
-
-//# sourceMappingURL=hyphenate-style-name.fe46cbbaaee7de6464ba.js.map

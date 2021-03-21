@@ -1,0 +1,3 @@
+(self.webpackChunkmaterial_ui_chameleon_docs=self.webpackChunkmaterial_ui_chameleon_docs||[]).push([[2798],{78864:(O,s,e)=>{"use strict";e.d(s,{Z:()=>c});var a=e(85399),l=e(65917),t=e(2366),o=e(47201),r=e(72365),n=e(72964),E=function(_){return{root:{fontWeight:_.typography.fontWeightMedium,marginTop:-2}}},m=t.forwardRef(function(_,u){var P=_.classes,M=_.className,D=(0,l.Z)(_,["classes","className"]);return t.createElement(r.Z,(0,a.Z)({gutterBottom:!0,component:"div",ref:u,className:(0,n.Z)(P.root,M)},D))});const c=(0,o.Z)(E,{name:"MuiAlertTitle"})(m)}}]);
+
+//# sourceMappingURL=alerttitle.1b3a2e46b1470bd04555.js.map

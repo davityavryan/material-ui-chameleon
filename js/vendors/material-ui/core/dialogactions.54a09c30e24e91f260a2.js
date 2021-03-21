@@ -1,0 +1,3 @@
+(self.webpackChunkmaterial_ui_chameleon_docs=self.webpackChunkmaterial_ui_chameleon_docs||[]).push([[7941],{75485:(g,t,s)=>{"use strict";s.d(t,{Z:()=>m});var i=s(85399),n=s(65917),e=s(2366),c=s(72964),o=s(47201),d={root:{display:"flex",alignItems:"center",padding:8,justifyContent:"flex-end",flex:"0 0 auto"},spacing:{"& > :not(:first-child)":{marginLeft:8}}},E=e.forwardRef(function(a,r){var _=a.disableSpacing,D=_===void 0?!1:_,l=a.classes,f=a.className,P=(0,n.Z)(a,["disableSpacing","classes","className"]);return e.createElement("div",(0,i.Z)({className:(0,c.Z)(l.root,f,!D&&l.spacing),ref:r},P))});const m=(0,o.Z)(d,{name:"MuiDialogActions"})(E)}}]);
+
+//# sourceMappingURL=dialogactions.54a09c30e24e91f260a2.js.map
