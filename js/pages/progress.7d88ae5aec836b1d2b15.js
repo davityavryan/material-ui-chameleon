@@ -1,3 +1,0 @@
-(self.webpackChunkmaterial_ui_chameleon_docs=self.webpackChunkmaterial_ui_chameleon_docs||[]).push([[5603],{91735:(c,e,n)=>{"use strict";n.r(e),n.d(e,{default:()=>r});var t=n(7104),l=n(2366),s=n(38535);const a=(0,l.lazy)(()=>n.e(7725).then(n.bind(n,94977))),o=(0,l.lazy)(()=>Promise.all([n.e(1021),n.e(8167)]).then(n.bind(n,45015)));function m(){return t.createElement(l.Fragment,null,t.createElement(s.RQ,{title:"Circular"},t.createElement(a,null)),t.createElement(s.RQ,{title:"Linear"},t.createElement(o,null)))}const r=m}}]);
-
-//# sourceMappingURL=progress.7d88ae5aec836b1d2b15.js.map

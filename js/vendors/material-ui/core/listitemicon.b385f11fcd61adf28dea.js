@@ -1,0 +1,3 @@
+(self.webpackChunkmaterial_ui_chameleon_docs=self.webpackChunkmaterial_ui_chameleon_docs||[]).push([[4889],{79038:(O,_,t)=>{"use strict";t.d(_,{Z:()=>E});var l=t(85399),n=t(65917),s=t(2366),i=t(72964),o=t(47201),c=t(76069),m=function(e){return{root:{minWidth:56,color:e.palette.action.active,flexShrink:0,display:"inline-flex"},alignItemsFlexStart:{marginTop:8}}},r=s.forwardRef(function(e,P){var a=e.classes,v=e.className,D=(0,n.Z)(e,["classes","className"]),M=s.useContext(c.Z);return s.createElement("div",(0,l.Z)({className:(0,i.Z)(a.root,v,M.alignItems==="flex-start"&&a.alignItemsFlexStart),ref:P},D))});const E=(0,o.Z)(m,{name:"MuiListItemIcon"})(r)}}]);
+
+//# sourceMappingURL=listitemicon.b385f11fcd61adf28dea.js.map

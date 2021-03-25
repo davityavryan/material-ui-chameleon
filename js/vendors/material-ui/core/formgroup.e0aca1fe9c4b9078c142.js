@@ -1,0 +1,3 @@
+(self.webpackChunkmaterial_ui_chameleon_docs=self.webpackChunkmaterial_ui_chameleon_docs||[]).push([[9450],{39133:(f,l,e)=>{"use strict";e.d(l,{Z:()=>i});var r=e(85399),t=e(65917),_=e(2366),c=e(72964),m=e(47201),E={root:{display:"flex",flexDirection:"column",flexWrap:"wrap"},row:{flexDirection:"row"}},n=_.forwardRef(function(s,u){var a=s.classes,D=s.className,o=s.row,P=o===void 0?!1:o,d=(0,t.Z)(s,["classes","className","row"]);return _.createElement("div",(0,r.Z)({className:(0,c.Z)(a.root,D,P&&a.row),ref:u},d))});const i=(0,m.Z)(E,{name:"MuiFormGroup"})(n)}}]);
+
+//# sourceMappingURL=formgroup.e0aca1fe9c4b9078c142.js.map

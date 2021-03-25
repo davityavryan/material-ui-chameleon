@@ -1,0 +1,3 @@
+(self.webpackChunkmaterial_ui_chameleon_docs=self.webpackChunkmaterial_ui_chameleon_docs||[]).push([[5893],{28744:(D,a,t)=>{"use strict";t.r(a),t.d(a,{default:()=>P});var e=t(7104),n=t(2366),E=t(83198),_=t(27665),l=t(48500),m=t(38535);function o({children:c}){return e.createElement(n.Fragment,null,e.createElement(l.K,null),e.createElement(E.Z,{component:"main",display:"flex",alignItems:"center",flexGrow:1,py:3},e.createElement(_.Z,{maxWidth:"md"},e.createElement(m.SV,null,c))))}const P=(0,n.memo)(o)}}]);
+
+//# sourceMappingURL=main-layout.da4ddc98c1a5306b9c5e.js.map
