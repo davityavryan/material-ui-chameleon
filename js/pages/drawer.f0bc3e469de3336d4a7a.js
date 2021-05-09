@@ -1,0 +1,3 @@
+(self.webpackChunkmaterial_ui_chameleon_docs=self.webpackChunkmaterial_ui_chameleon_docs||[]).push([[7279],{51763:(D,m,n)=>{"use strict";n.r(m),n.d(m,{default:()=>h});var t=n(7104),l=n(2366),o=n(38535);const s=(0,l.lazy)(()=>Promise.all([n.e(5199),n.e(3207),n.e(2917),n.e(1398),n.e(4889),n.e(8475),n.e(9015),n.e(8771)]).then(n.bind(n,29391))),a=(0,l.lazy)(()=>Promise.all([n.e(5199),n.e(3207),n.e(2917),n.e(1398),n.e(4889),n.e(8475),n.e(9015),n.e(2267),n.e(8655),n.e(9192)]).then(n.bind(n,59681)));function d(){return t.createElement(l.Fragment,null,t.createElement(o.RQ,{title:"Drawer"},t.createElement(s,null)),t.createElement(o.RQ,{title:"Mini variant drawer",p:0},t.createElement(a,null)))}const h=d}}]);
+
+//# sourceMappingURL=drawer.f0bc3e469de3336d4a7a.js.map

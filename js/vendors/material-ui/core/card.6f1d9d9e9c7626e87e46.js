@@ -1,3 +1,0 @@
-(self.webpackChunkmaterial_ui_chameleon_docs=self.webpackChunkmaterial_ui_chameleon_docs||[]).push([[7326],{12514:(O,l,s)=>{"use strict";s.d(l,{Z:()=>c});var t=s(85399),r=s(65917),e=s(2366),E=s(72964),o=s(3286),d=s(47201),n={root:{overflow:"hidden"}},P=e.forwardRef(function(_,m){var i=_.classes,v=_.className,a=_.raised,D=a===void 0?!1:a,M=(0,r.Z)(_,["classes","className","raised"]);return e.createElement(o.Z,(0,t.Z)({className:(0,E.Z)(i.root,v),elevation:D?8:1,ref:m},M))});const c=(0,d.Z)(n,{name:"MuiCard"})(P)}}]);
-
-//# sourceMappingURL=card.6f1d9d9e9c7626e87e46.js.map

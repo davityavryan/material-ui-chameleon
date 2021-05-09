@@ -1,3 +1,1 @@
-(self.webpackChunkmaterial_ui_chameleon_docs=self.webpackChunkmaterial_ui_chameleon_docs||[]).push([[6873],{83198:(K,E,_)=>{"use strict";_.d(E,{Z:()=>T});var s=_(52269),a=_(84534),P=_(58660),t=_(35462),m=_(26262),D=_(70846),M=_(68191),O=_(1571),l=_(64630),i=_(7412),v=_(10706),B=_(32407),C=_(19152),y=(0,s.Z)((0,a.Z)(P.ZP,t.ZP,m.ZP,D.ZP,M.ZP,O.ZP,l.Z,i.ZP,v.Z,B.ZP)),A=(0,C.Z)("div")(y,{name:"MuiBox"});const T=A}}]);
-
-//# sourceMappingURL=box.d7a3912f921635dc92d7.js.map
+(self.webpackChunkmaterial_ui_chameleon_docs=self.webpackChunkmaterial_ui_chameleon_docs||[]).push([[6873],{83198:(v,e,Z)=>{"use strict";Z.d(e,{Z:()=>p});var a=Z(52269),s=Z(84534),P=Z(58660),c=Z(35462),i=Z(26262),l=Z(70846),u=Z(68191),m=Z(1571),n=Z(64630),o=Z(7412),t=Z(10706),h=Z(32407),d=Z(19152),k=(0,a.Z)((0,s.Z)(P.ZP,c.ZP,i.ZP,l.ZP,u.ZP,m.ZP,n.Z,o.ZP,t.Z,h.ZP)),r=(0,d.Z)("div")(k,{name:"MuiBox"});const p=r}}]);
