@@ -1,0 +1,3 @@
+(self.webpackChunkmaterial_ui_chameleon_docs=self.webpackChunkmaterial_ui_chameleon_docs||[]).push([[3715],{44450:(c,t,n)=>{"use strict";n.r(t),n.d(t,{default:()=>o});var l=n(7104),m=n(38535),s=n(2366);const a=(0,s.lazy)(()=>Promise.all([n.e(3207),n.e(5199),n.e(2917),n.e(9577),n.e(643),n.e(2436),n.e(7434)]).then(n.bind(n,54874)));function d(){return l.createElement(m.RQ,{title:"Breadcrumbs"},l.createElement(a,null))}const o=d}}]);
+
+//# sourceMappingURL=breadcrumbs.8a698d9f31bb5bb78d95.js.map
