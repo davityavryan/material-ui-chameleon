@@ -1,0 +1,3 @@
+(self.webpackChunkmaterial_ui_chameleon_docs=self.webpackChunkmaterial_ui_chameleon_docs||[]).push([[1062],{26815:(P,_,e)=>{"use strict";e.d(_,{Z:()=>r});var o=e(85399),l=e(65917),t=e(2366),n=e(72964),c=e(47201),m={root:{position:"absolute",right:16,top:"50%",transform:"translateY(-50%)"}},a=t.forwardRef(function(s,i){var E=s.classes,d=s.className,u=(0,l.Z)(s,["classes","className"]);return t.createElement("div",(0,o.Z)({className:(0,n.default)(E.root,d),ref:i},u))});a.muiName="ListItemSecondaryAction";const r=(0,c.Z)(m,{name:"MuiListItemSecondaryAction"})(a)}}]);
+
+//# sourceMappingURL=listitemsecondaryaction.2591a24b6047bcdfcaf3.js.map

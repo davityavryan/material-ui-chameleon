@@ -1,0 +1,3 @@
+(self.webpackChunkmaterial_ui_chameleon_docs=self.webpackChunkmaterial_ui_chameleon_docs||[]).push([[7752],{73631:(e,o,t)=>{"use strict";t.r(o),t.d(o,{default:()=>d});var n=t(7104),l=t(2366),a=t(38535);const m=(0,l.lazy)(()=>Promise.all([t.e(3207),t.e(5199),t.e(1807),t.e(911)]).then(t.bind(t,7246))),s=(0,l.lazy)(()=>Promise.all([t.e(3207),t.e(5199),t.e(1807),t.e(1124)]).then(t.bind(t,28811)));function i(){return n.createElement(l.Fragment,null,n.createElement(a.RQ,{title:"Floating Action Button"},n.createElement(m,null)),n.createElement(a.RQ,{title:"Size"},n.createElement(s,null)))}const d=i}}]);
+
+//# sourceMappingURL=fab.801196f16dfd4e0c52ce.js.map

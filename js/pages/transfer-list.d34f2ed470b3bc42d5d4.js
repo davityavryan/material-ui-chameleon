@@ -1,3 +1,0 @@
-(self.webpackChunkmaterial_ui_chameleon_docs=self.webpackChunkmaterial_ui_chameleon_docs||[]).push([[4243],{6859:(h,s,n)=>{"use strict";n.r(s),n.d(s,{default:()=>f});var t=n(7104),l=n(2366),m=n(38535);const a=(0,l.lazy)(()=>Promise.all([n.e(9577),n.e(9447),n.e(9071),n.e(1398),n.e(4889),n.e(1553),n.e(7326),n.e(8831)]).then(n.bind(n,86287))),o=(0,l.lazy)(()=>Promise.all([n.e(9577),n.e(9447),n.e(9071),n.e(4889),n.e(6437)]).then(n.bind(n,79898)));function d(){return t.createElement(l.Fragment,null,t.createElement(m.RQ,{title:"Simple Transfer List"},t.createElement(o,null)),t.createElement(m.RQ,{title:"Enhanced Transfer List"},t.createElement(a,null)))}const f=d}}]);
-
-//# sourceMappingURL=transfer-list.d34f2ed470b3bc42d5d4.js.map

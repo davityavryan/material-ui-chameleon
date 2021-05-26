@@ -1,0 +1,3 @@
+(self.webpackChunkmaterial_ui_chameleon_docs=self.webpackChunkmaterial_ui_chameleon_docs||[]).push([[5954],{86810:(M,t,a)=>{"use strict";a.d(t,{Z:()=>h});var o=a(85399),i=a(65917),_=a(2366),n=a(72964),r=a(47201),E=a(72365),c={root:{margin:0,padding:"16px 24px",flex:"0 0 auto"}},d=_.forwardRef(function(e,m){var l=e.children,D=e.classes,T=e.className,s=e.disableTypography,P=s===void 0?!1:s,v=(0,i.Z)(e,["children","classes","className","disableTypography"]);return _.createElement("div",(0,o.Z)({className:(0,n.default)(D.root,T),ref:m},v),P?l:_.createElement(E.Z,{component:"h2",variant:"h6"},l))});const h=(0,r.Z)(c,{name:"MuiDialogTitle"})(d)}}]);
+
+//# sourceMappingURL=dialogtitle.88a2f41d9222852afde1.js.map

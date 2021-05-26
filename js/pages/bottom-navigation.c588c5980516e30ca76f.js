@@ -1,0 +1,3 @@
+(self.webpackChunkmaterial_ui_chameleon_docs=self.webpackChunkmaterial_ui_chameleon_docs||[]).push([[765],{14531:(v,l,t)=>{"use strict";t.r(l),t.d(l,{default:()=>g});var o=t(7104),n=t(2366),a=t(38535);const m=(0,n.lazy)(()=>Promise.all([t.e(3207),t.e(5199),t.e(8219),t.e(2503),t.e(9439)]).then(t.bind(t,67780))),s=(0,n.lazy)(()=>Promise.all([t.e(3207),t.e(5199),t.e(8219),t.e(2503),t.e(151)]).then(t.bind(t,15902)));function i(){return o.createElement(n.Fragment,null,o.createElement(a.RQ,{title:"Bottom Navigation"},o.createElement(m,null)),o.createElement(a.RQ,{title:"Bottom Navigation with no label"},o.createElement(s,null)))}const g=i}}]);
+
+//# sourceMappingURL=bottom-navigation.c588c5980516e30ca76f.js.map
