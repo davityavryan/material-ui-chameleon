@@ -1,3 +1,0 @@
-(self.webpackChunkmaterial_ui_chameleon_docs=self.webpackChunkmaterial_ui_chameleon_docs||[]).push([[9766],{17054:(C,s,e)=>{"use strict";e.d(s,{Z:()=>u});var n=e(85399),r=e(65917),l=e(2366),E=e(72964),m=e(47201),c=e(58051),d={root:{display:"table-row-group"}},v={variant:"body"},_="tbody",P=l.forwardRef(function(a,D){var M=a.classes,O=a.className,t=a.component,o=t===void 0?_:t,T=(0,r.Z)(a,["classes","className","component"]);return l.createElement(c.Z.Provider,{value:v},l.createElement(o,(0,n.Z)({className:(0,E.default)(M.root,O),ref:D,role:o===_?null:"rowgroup"},T)))});const u=(0,m.Z)(d,{name:"MuiTableBody"})(P)}}]);
-
-//# sourceMappingURL=tablebody.6c16c0a78960e3964fb0.js.map

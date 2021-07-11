@@ -1,0 +1,3 @@
+(self.webpackChunkmaterial_ui_chameleon_docs=self.webpackChunkmaterial_ui_chameleon_docs||[]).push([[2736],{82295:(u,t,e)=>{"use strict";e.r(t),e.d(t,{default:()=>E});var a=e(7104),s=e(2366),r=e(30716),o=e(5187);function _({children:n}){const l=(0,o.f)();return a.createElement(r.Z,{theme:l},n)}const E=(0,s.memo)(_)},5187:(u,t,e)=>{"use strict";e.d(t,{f:()=>o});var a=e(2366),s=e(32181),r=e(87171);function o(){const _=(0,s.Z)("(prefers-color-scheme: dark)");return(0,a.useMemo)(()=>{const E=["none",...Array(24).fill("").map((n,l)=>`0 0 ${Math.round(l*.75+10)}px rgb(0,0,0,${_?.24:.12})`)];return(0,r.A)({palette:{type:_?"dark":"light",background:{default:_?"#333":"#eee"}},shadows:E})},[_])}}}]);
+
+//# sourceMappingURL=theme.2d1664252f451ca4c94a.js.map
